@@ -1,0 +1,40 @@
+.navLinkContainer {
+    display: flex;
+    justify-content: start;
+    gap: 5px;
+    position: relative;
+    z-index: 0;
+    top: -23px;
+    left: -360px;
+    margin-left: 23px;
+    background: mediumpurple;
+    transition: all 0.5s;
+    width: 220px;
+    height: 23px;
+    box-shadow: 10px 0 20px rgba(0,0,0,0.4);
+    color: #FFF;
+    line-height: 23px;
+}
+.navLinkContainerActive {
+    left: 0;
+}
+.navButton {
+    z-index: 1;
+    width: 23px;
+    height: 23px;
+    line-height: 23px;
+    background-color: mediumpurple;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+}
+.navButton:hover {
+    color: purple;
+}
+.navLink {
+    text-decoration: none;
+    color: white;
+}
+.navLink:hover {
+    color: purple;
+}
