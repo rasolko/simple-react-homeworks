@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/simple-react-homeworks/static/css/main.9485683d.chunk.css",
-    "main.js": "/simple-react-homeworks/static/js/main.57634731.chunk.js",
-    "main.js.map": "/simple-react-homeworks/static/js/main.57634731.chunk.js.map",
+    "main.css": "/simple-react-homeworks/static/css/main.4e70f5df.chunk.css",
+    "main.js": "/simple-react-homeworks/static/js/main.1d4449d1.chunk.js",
+    "main.js.map": "/simple-react-homeworks/static/js/main.1d4449d1.chunk.js.map",
     "runtime-main.js": "/simple-react-homeworks/static/js/runtime-main.f59815ab.js",
     "runtime-main.js.map": "/simple-react-homeworks/static/js/runtime-main.f59815ab.js.map",
-    "static/js/2.7148fbcd.chunk.js": "/simple-react-homeworks/static/js/2.7148fbcd.chunk.js",
-    "static/js/2.7148fbcd.chunk.js.map": "/simple-react-homeworks/static/js/2.7148fbcd.chunk.js.map",
+    "static/js/2.2cd250f4.chunk.js": "/simple-react-homeworks/static/js/2.2cd250f4.chunk.js",
+    "static/js/2.2cd250f4.chunk.js.map": "/simple-react-homeworks/static/js/2.2cd250f4.chunk.js.map",
     "index.html": "/simple-react-homeworks/index.html",
-    "precache-manifest.ec4510a81489d1b77a022488532e2931.js": "/simple-react-homeworks/precache-manifest.ec4510a81489d1b77a022488532e2931.js",
+    "precache-manifest.5457b6d5827c28735ab3fbd6524c9669.js": "/simple-react-homeworks/precache-manifest.5457b6d5827c28735ab3fbd6524c9669.js",
     "service-worker.js": "/simple-react-homeworks/service-worker.js",
-    "static/css/main.9485683d.chunk.css.map": "/simple-react-homeworks/static/css/main.9485683d.chunk.css.map",
-    "static/js/2.7148fbcd.chunk.js.LICENSE.txt": "/simple-react-homeworks/static/js/2.7148fbcd.chunk.js.LICENSE.txt"
+    "static/css/main.4e70f5df.chunk.css.map": "/simple-react-homeworks/static/css/main.4e70f5df.chunk.css.map",
+    "static/js/2.2cd250f4.chunk.js.LICENSE.txt": "/simple-react-homeworks/static/js/2.2cd250f4.chunk.js.LICENSE.txt",
+    "static/media/Error404.module.css": "/simple-react-homeworks/static/media/404.3c0a2c7f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f59815ab.js",
-    "static/js/2.7148fbcd.chunk.js",
-    "static/css/main.9485683d.chunk.css",
-    "static/js/main.57634731.chunk.js"
+    "static/js/2.2cd250f4.chunk.js",
+    "static/css/main.4e70f5df.chunk.css",
+    "static/js/main.1d4449d1.chunk.js"
   ]
 }
