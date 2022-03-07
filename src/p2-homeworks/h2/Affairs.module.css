@@ -1,0 +1,16 @@
+.affairs {
+    color: mediumpurple;
+    padding: 10px;
+}
+.affair {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px;
+    margin: 3px;
+    background-color: #E5E5EA;
+    border: 1px mediumpurple solid;
+}
+.affair div {
+    width: 33vw;
+}
